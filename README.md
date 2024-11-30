@@ -35,17 +35,16 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/htr-tech/zphisher.git
+  https://github.com/Rahulkilaparthi/Zphisher.git
   ```
 
 - Now go to cloned directory and run `zphisher.sh` -
   ```
   $ cd zphisher
   $ bash zphisher.sh
-  PHISHING ATTACK
   $ After that  change tab:
   $Download cloudflared .deb from browser
-	$Sudo apt install  gdebi
+  $Sudo apt install  gdebi
   $(Go to download folder go to properties of cloudflared go to edit and install pkg)
   $Cloudflared -url localhost:8080
   $copy a link and send it to target .
